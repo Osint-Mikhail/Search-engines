@@ -1,7 +1,7 @@
 # Search-engines
 Search engines for finding logins and emails.
 
-Infoga is a tool to collect email account information from public sources (search engines, PGP keyservers, Shodan) and check if email has been leaked using the haveibeenpwned.com API.
+[Infoga](https://github.com/m4ll0k/Infoga) is a tool to collect email account information from public sources (search engines, PGP keyservers, Shodan) and check if email has been leaked using the haveibeenpwned.com API.
 
 Holehe  OSINT - checks if email is linked to accounts on sites like twitter, instagram, imgur. Supports over 100 portals. Uses the password recovery feature.
 
